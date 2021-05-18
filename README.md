@@ -23,3 +23,6 @@
     // 3. Execute the code : ... > run ./compilefilename >
 
     // Or use code runner extension
+
+    #Apple:
+    // 0. The C skeleton
