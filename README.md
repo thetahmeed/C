@@ -10,3 +10,7 @@
     // Or
     // 0. Install CODEBLOCK [Details: https://sourceforge.net/projects/codeblocks/]
     // 1. ENJOY
+
+    // Books recommendations
+    // 0. Biggining C
+    // 2. How to C Program
