@@ -14,3 +14,12 @@
     // Books recommendations
     // 0. Biggining C
     // 2. How to C Program
+
+    // How to run first program?
+    // 0. Create a file with the extension '.c'
+    // 1. Type the code
+    // 2. Compile the code: Open cmd > goto the file path > run gcc filename.c -o compilefilename >
+    // 2.1 Linking: [This part will be done befind the scene]
+    // 3. Execute the code : ... > run ./compilefilename >
+
+    // Or use code runner extension
