@@ -26,3 +26,4 @@
 
     #Apple:
     // 0. The C skeleton
+    // 1. printf

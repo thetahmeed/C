@@ -1,6 +1,10 @@
-#include <stdio.h>              // We are including 'stdio.h' (standard input output header file) to this project
+#include <stdio.h>
 
-void main()                      // This is a function called 'main' We need at least one function to run c
+void main()
 {
-    printf("Hello World\n");    // We are printing something by using 'printf' (it's coming from the 'stdio.h')
+    printf("Hello World!\n"); // '\n' is use to create a new line 
+
+    printf("My Name is Bond\t James Bond\n"); // '\t' is use to get tab space
+
+    printf("%d\n", 1+1); // here '%d' is use as a place holder
 }
