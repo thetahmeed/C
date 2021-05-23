@@ -1,10 +1,18 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
-    printf("Hello World!\n"); // '\n' is use to create a new line 
+    // Calculation between two number a and b
 
-    printf("My Name is Bond\t James Bond\n"); // '\t' is use to get tab space
+    // 0. Declaring veriable
+    int a = 10;
+    int b = 20;
 
-    printf("%d\n", 1+1); // here '%d' is use as a place holder
+    // 1. Print and calculation
+    printf("%d + %d = %d\n", a, b, a+b);
+    printf("%d - %d = %d\n", a, b, a-b);
+    printf("%d * %d = %d\n", a, b, a*b);
+    printf("%d / %d = %d\n", a, b, a/b);
+
+    return 0;
 }
