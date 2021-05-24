@@ -12,7 +12,7 @@ int main()
     iAmANumber = 69;
 
     // 2. Printing 
-    printf("This number + 1 = %d\n", iAmANumber + 1 );
+    printf("This number = %d\n", iAmANumber);
 
     return 0;
 }
