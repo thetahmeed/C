@@ -2,17 +2,17 @@
 
 int main()
 {
-    // Calculation between two number a and b
 
-    // 0. Declaring veriable
-    int a = 10;
-    int b = 20;
+    //  What is a variable: Is a kind of container that can hold anything
 
-    // 1. Print and calculation
-    printf("%d + %d = %d\n", a, b, a+b);
-    printf("%d - %d = %d\n", a, b, a-b);
-    printf("%d * %d = %d\n", a, b, a*b);
-    printf("%d / %d = %d\n", a, b, a/b);
+    // 0. Declaration of a variable
+    int iAmANumber;
+    
+    // 1. Assigning a value
+    iAmANumber = 69;
+
+    // 2. Printing 
+    printf("This number + 1 = %d\n", iAmANumber + 1 );
 
     return 0;
 }
