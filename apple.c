@@ -14,5 +14,9 @@ int main()
     // 2. Printing 
     printf("This number = %d\n", iAmANumber);
 
+    // 3. Calculation inside printf
+    printf("This number + 1 = %d\n", iAmANumber + 1 );
+    printf("This number - 9 = %d", iAmANumber - 9);
+
     return 0;
 }
