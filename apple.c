@@ -18,5 +18,18 @@ int main()
     printf("This number + 1 = %d\n", iAmANumber + 1 );
     printf("This number - 9 = %d", iAmANumber - 9);
 
+
+    // Calculation between two number a and b
+
+    // 0. Declaring veriable
+    int a = 10;
+    int b = 20;
+
+    // 1. Print and calculation
+    printf("%d + %d = %d\n", a, b, a+b);
+    printf("%d - %d = %d\n", a, b, a-b);
+    printf("%d * %d = %d\n", a, b, a*b);
+    printf("%d / %d = %d\n", a, b, a/b);
+
     return 0;
 }
