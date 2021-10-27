@@ -19,7 +19,7 @@ int main()
     printf("This number - 9 = %d", iAmANumber - 9);
 
 
-    // Calculation between two number a and b
+    // 
 
     // 0. Declaring veriable
     int a = 10;
