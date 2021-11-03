@@ -1,3 +1,4 @@
+Scanf Printf Problems
 
 1) Write a C program to enter two numbers and find their sum.
 2) Write a C program to enter the length and breadth of a rectangle and find its perimeter & area.
@@ -20,5 +21,5 @@
 14) Sajib’s basic salary is input through the keyboard. His medical allowance is 35%
     of basic salary, and house rent allowance is 25% of basic salary, and transport
     allowance is 20% of his basic salary. Write a program to calculate his gross salary.
-
-(Solved by Tahmeedul Islam)
+<br>
+Solved by Tahmeedul Islam
