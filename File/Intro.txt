@@ -1,0 +1,21 @@
+
+
+
+
+
+
+Syntex: FILE *name;
+
+We can use FILE to create, open, colse, read and write a file.
+
+Some function we will use to write:
+1. fputc()
+2. fputw()
+3. fprintf()
+4. fwrite()
+
+Some function we will use to read:
+1. fgetc()
+2. fgetw()
+3. fscanf()
+4. fread()
