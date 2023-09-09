@@ -2,13 +2,18 @@
     // Basic things about C
 
     // Get Started
-    // 0. You need to donwnload compiler (Search, Download of MinGW Installation Manage)
-    // [Details: https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe]
-    // 1. Configure the path [Details: https://www.youtube.com/watch?v=Ubfgi4NoTPk]
-    // 3. Setting your favorite text editor
-    // 4. ENJOY
+    // 0. You need to download the compiler (search for MinGW Download, or visit https://sourceforge.net/projects/mingw/)
+    // https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe]
+    // 1. Click next, next, next, and install
+    // 2. On the Package selection menu, select mingw32-gcc-g++
+    // 3. Configure the path [Details: https://www.youtube.com/watch?v=Ubfgi4NoTPk]
+    // 4. Go C:\ >  MinGW > bin > Copy the path
+    // 5. Search path > go to env variables > path > paste
+    // 6. Setting your favorite text editor (Install extension code runner and c/c++ extensions)
+    // 7. Need help? Watch this https://www.youtube.com/watch?v=Ubfgi4NoTPk&ab_channel=MrAboutTech
+    // 8. ENJOY
 
-    // Or
+    // Or if you are not from IT
     // 0. Install CODEBLOCK [Details: https://sourceforge.net/projects/codeblocks/]
     // 1. ENJOY
 
